@@ -1,1 +1,3 @@
-- 👋 Hi, I'm a Full-Stack Developer working in Luxembourg
+- 👋 Hi, I'm a Full-Stack Developer working in Luxembourg.
+- This is my do·jo (/ˈdōˌjō/) where I store small POC projects and exercises.
+- The contributions graph does not reflect my day to day activity ^^
