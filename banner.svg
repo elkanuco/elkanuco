@@ -1,6 +1,4 @@
-<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" 
-xmlns:ns3="http://www.w3.org/1999/xlink" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px" version="1.1" id="svg47" 
-ns1:docname="elkanuco_dark_mode.svg" xml:space="preserve" ns2:version="1.4.2 (f4327f4, 2025-05-13)"><ns0:defs id="defs47">
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px" version="1.1" id="svg47" ns1:docname="elkanuco_dark_mode.svg" xml:space="preserve" ns2:version="1.4.2 (f4327f4, 2025-05-13)"><ns0:defs id="defs47">
   <ns0:linearGradient id="linearGradient47" ns2:collect="always"><ns0:stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop47" />
   <ns0:stop style="stop-color:#000000;stop-opacity:0;" offset="1" id="stop48" /></ns0:linearGradient>
   <ns0:radialGradient ns2:collect="always" ns3:href="#linearGradient47" id="radialGradient48" cx="492.65033" cy="266.30061" fx="492.65033" fy="266.30061" r="492.65033" gradientTransform="matrix(1,0,0,0.53841743,0,122.91972)" gradientUnits="userSpaceOnUse" /><ns0:filter ns2:collect="always" style="color-interpolation-filters:sRGB" id="filter48" x="-0.0023076262" y="-0.0042859425" width="1.0046153" height="1.0085719"><ns0:feGaussianBlur ns2:collect="always" stdDeviation="0.94737732" id="feGaussianBlur48" /></ns0:filter></ns0:defs>
@@ -40,7 +38,7 @@ text, tspan {white-space: pre;}
 </ns0:tspan>
 <ns0:tspan x="380" y="400" class="cc" id="tspan25">. </ns0:tspan><ns0:tspan class="key" id="tspan26">LinkedIn</ns0:tspan>:<ns0:tspan class="cc" id="tspan27"> .......................... </ns0:tspan><ns0:tspan class="value" id="tspan28">danielmendesdasilva</ns0:tspan>
 
-   <ns0:tspan x="750" y="500" class="value" id="dateToUpdate">UPDATE</ns0:tspan>
+   <ns0:tspan x="750" y="500" class="value" id="dateToUpdate">September 11, 2025</ns0:tspan>
 
 </ns0:text>
      
