@@ -1,7 +1,18 @@
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
-
+def get_day_suffix(day):
+    if 11 <= day <= 13:
+        return "th"
+    last_digit = day % 10
+    if last_digit == 1:
+        return "st"
+    elif last_digit == 2:
+        return "nd"
+    elif last_digit == 3:
+        return "rd"
+    else:
+        return "th"
 
 def update_svg_file(svg_file, current_date):
     try:
@@ -26,8 +37,11 @@ def update_svg_file(svg_file, current_date):
         print(f"An error occurred: {str(e)}")
 
 try:
-    # Get the current date in a human-readable format (e.g., September 11, 2025)
-    current_date = datetime.now().strftime("%B %d, %Y")
+    # Get the current date in a human-readable format 
+    now = datetime.now()
+    day = now.day
+    suffix = get_day_suffix(day)
+    current_date = now.strftime("%A, %B {day}{suffix}, %Y")
     # Update both SVG files
     update_svg_file("banner.svg", current_date)
     update_svg_file("banner_light.svg", current_date)
