@@ -174,7 +174,7 @@ text, tspan {white-space: pre;}
 
    <tspan
    x="750"
-   y="500"
+   y="450"
    class="value"
    id="dateToUpdate">UPDATE</tspan>
 
