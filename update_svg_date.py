@@ -41,7 +41,7 @@ try:
     now = datetime.now()
     day = now.day
     suffix = get_day_suffix(day)
-    current_date = now.strftime("%A, %B {day}{suffix}, %Y")
+    current_date = now.strftime(f"%A, %B {day}{suffix}, %Y")
     # Update both SVG files
     update_svg_file("banner.svg", current_date)
     update_svg_file("banner_light.svg", current_date)
